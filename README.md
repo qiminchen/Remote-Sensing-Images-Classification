@@ -1,6 +1,6 @@
 # Remote Sensing Images Classification
 
-### Design and Implementation of Classification of Remote Sensing Images Based on Convolutional Neural Networks
+### Abstract
 
 With the continuous progress and development of human society in nowadays, land-use pattern gets its diversification. However, due to the variety of land-use patterns, it is impractical for people to precisely label the land-use pattern of somewhere. Remote sensing images, recording the characteristic of terrestrial objects in different height and angle, could be divided into three classes: marine remote sensing, terrene remote sensing and meteorological remote sensing. Recording in different height and angle results in difference in images resolution, which makes artificial classification in remote sensing images more difficult. Meanwhile, the development of aeronautical technology and satellite provide us with huge original data set which could be utilized to observe and measure the terrestrial structure. Besides, understanding remote sensing images is vital in land using, city planning, protection of ecological resources and so on.
 
